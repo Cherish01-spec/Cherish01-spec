@@ -9,14 +9,14 @@
 </style>
 <rect width="490" height="320" fill="#0d1117" rx="10"/>
 <g transform="translate(20, 40)">
-<text x="0" y="0" class="text line" fill="#c9d1d9" style="animation-delay:0.10s;">Cherish Kumar Satpathy ~ $ neofetch</text>
+<text x="0" y="0" class="text line" fill="#c9d1d9" style="animation-delay:0.10s;">cherish@github ~ $ neofetch</text>
 <text x="0" y="25" class="text line" fill="#8b949e" style="animation-delay:0.25s;">---------------------------</text>
 <text x="0" y="50" class="text line" style="animation-delay:0.40s;"><tspan class="label">Role:</tspan> <tspan class="value">Full Stack Web Developer &amp; AI Enthusiast</tspan></text>
-<text x="0" y="75" class="text line" style="animation-delay:0.55s;"><tspan class="label">Stack:</tspan> <tspan class="value">Python, JavaScript, Java </tspan></text>
+<text x="0" y="75" class="text line" style="animation-delay:0.55s;"><tspan class="label">Stack:</tspan> <tspan class="value">Java, JavaScript, Python</tspan></text>
 <text x="0" y="100" class="text line" style="animation-delay:0.70s;"><tspan class="label">Web Dev:</tspan> <tspan class="value">HTML, CSS, Modern Frameworks</tspan></text>
 <text x="0" y="125" class="text line" style="animation-delay:0.85s;"><tspan class="label">AI/Vision:</tspan> <tspan class="value">YOLO, OpenCV, Tkinter</tspan></text>
 <text x="0" y="150" class="text line" style="animation-delay:1.00s;"><tspan class="label">Education:</tspan> <tspan class="value">B.Tech CSE @ GIET Bhubaneswar</tspan></text>
 <text x="0" y="175" class="text line" style="animation-delay:1.15s;"><tspan class="label">Location:</tspan> <tspan class="value">Bhubaneswar, India</tspan></text>
-<text x="0" y="200" class="text line" style="animation-delay:1.30s;"><tspan class="label">Portfolio:</tspan> <tspan class="value">https://cherishkumarsatpathy.me</tspan></text>
+<text x="0" y="200" class="text line" style="animation-delay:1.30s;"><tspan class="label">Portfolio:</tspan> <tspan class="value">genuine-douhua-26c032.netlify.app</tspan></text>
 <text x="0" y="225" class="text line" style="animation-delay:1.45s;"><tspan class="label">Quote:</tspan> <tspan class="value">&quot;Not just writing code, but creating experiences that last.&quot;</tspan></text>
 </g></svg>
