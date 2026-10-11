@@ -20,7 +20,20 @@
 <table>
 <tr>
 <td valign="top"><img src="./cherish-ascii.svg" width="420" alt="Cherish Kumar Satpathy — ASCII portrait" /></td>
-<td valign="top"><img src="./stats.svg" width="420" alt="Cherish Kumar Satpathy's GitHub streak and contribution stats — auto-refreshed daily" /></td>
+<td valign="top" width="420" style="padding: 20px;">
+  <h2 style="margin-top: 0; color: #ff6b6b;">Hi there! 👋 I'm Cherish</h2>
+  <p style="font-size: 16px; line-height: 1.6; color: #c9d1d9;">
+    I am a passionate <b style="color: #4facfe;">AI/ML Developer</b> and <b style="color: #00f2fe;">Computer Vision Enthusiast</b>.
+  </p>
+  <p style="font-size: 14px; line-height: 1.5; color: #8b949e;">
+    🚀 Exploring the frontiers of Deep Learning, Generative AI, and LLMs.<br/>
+    🧠 Building intelligent systems and conversational agents.<br/>
+    💻 Always eager to learn new tech and solve complex problems.
+  </p>
+  <p style="font-size: 14px; color: #58a6ff;">
+    <i>"Transforming data into intelligent insights!"</i> ✨
+  </p>
+</td>
 </tr>
 </table>
 
