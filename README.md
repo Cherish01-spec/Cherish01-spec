@@ -27,23 +27,6 @@
 <br>
 <br>
 
-<h3><code>Cherish01-spec@github ~ $ ./links.sh</code></h3>
-
-<p><b>Student · Vibe Coder</b></p>
-
-[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-cherishkumarsatpathy.me-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://www.cherishkumarsatpathy.me/)
-[![GitHub](https://img.shields.io/badge/GitHub-Cherish01--spec-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cherish01-spec)
-
-<br>
-<br>
-
-<h3><code>Cherish01-spec@github ~ $ ./snake.sh</code></h3>
-
-<img src="./streak.svg" width="860" alt="Cherish Kumar Satpathy's Contribution Snake Animation" />
-
-<br>
-<br>
-
 <h3><code>Cherish01-spec@github ~ $ ./skills.sh</code></h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -77,11 +60,21 @@
 <br>
 <br>
 
+<h3><code>Cherish01-spec@github ~ $ ./links.sh</code></h3>
+
+<p><b>Student · Vibe Coder</b></p>
+
+[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-cherishkumarsatpathy.me-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://www.cherishkumarsatpathy.me/)
+[![GitHub](https://img.shields.io/badge/GitHub-Cherish01--spec-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cherish01-spec)
+
+<br>
+<br>
+
 <h3><code>Cherish01-spec@github ~ $ ./experience.sh</code></h3>
 
 <table align="center" width="860px" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
-    <td width="120px" align="center" style="border: none;"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/87/DRDO_Logo.png/220px-DRDO_Logo.png" alt="DRDO Logo" width="80px"/></td>
+    <td width="120px" align="center" style="border: none;"><img src="https://upload.wikimedia.org/wikipedia/en/1/1d/Defence_Research_and_Development_Organisation.svg" alt="DRDO Logo" width="80px" style="border-radius: 50%; object-fit: contain; aspect-ratio: 1/1; background-color: white; padding: 5px; box-sizing: border-box;"/></td>
     <td style="border: none;">
       <b>DRDO - Integrated Test Range (ITR)</b> <i>Chandipur, Odisha, India</i><br>
       <b>AI/ML Summer Trainee</b><br>
@@ -90,7 +83,7 @@
     </td>
   </tr>
   <tr style="border: none;">
-    <td width="120px" align="center" style="border: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Tata_logo.svg/120px-Tata_logo.svg.png" alt="Tata Steel Logo" width="80px"/></td>
+    <td width="120px" align="center" style="border: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Tata_logo.svg/120px-Tata_logo.svg.png" alt="Tata Steel Logo" width="80px" style="border-radius: 50%; object-fit: contain; aspect-ratio: 1/1; background-color: white; padding: 5px; box-sizing: border-box;"/></td>
     <td style="border: none;">
       <b>Tata Steel Ltd.</b> <i>Jamshedpur, India</i><br>
       <b>Software Engineer Intern</b><br>
