@@ -42,22 +42,46 @@
 <img src="./streak.svg" width="860" alt="Cherish Kumar Satpathy's Contribution Snake Animation" />
 
 <br>
+<br>
+
+<h3><code>Cherish01-spec@github ~ $ ./skills.sh</code></h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLOv8-FF1493?style=for-the-badge&logo=yolo&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-000000?style=for-the-badge&logo=clarifai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-20232A?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
+
+<br>
+<br>
+
+<h3><code>Cherish01-spec@github ~ $ ./experience.sh</code></h3>
+
+<table align="center" width="860px">
+  <tr>
+    <td width="120px" align="center"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/87/DRDO_Logo.png/150px-DRDO_Logo.png" alt="DRDO Logo" width="80px"/></td>
+    <td>
+      <b>DRDO - Integrated Test Range (ITR)</b> <i>Chandipur, Odisha, India</i><br>
+      <b>AI/ML Summer Trainee</b><br>
+      ◦ Researched and developed a Deep Learning and Computer Vision pipeline for multi-class brain tumor classification using MRI imaging data.<br>
+      ◦ Explored and applied YOLOv8-based computer vision techniques for real-time image segmentation and classification tasks.
+    </td>
+  </tr>
+  <tr>
+    <td width="120px" align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Tata_Steel_Logo_1.svg/150px-Tata_Steel_Logo_1.svg.png" alt="Tata Steel Logo" width="80px"/></td>
+    <td>
+      <b>Tata Steel Ltd.</b> <i>Jamshedpur, India</i><br>
+      <b>Software Engineer Intern</b><br>
+      ◦ Designed and deployed an AI-powered data analysis chatbot and dashboard capable of interacting with structured CSV data through a conversational interface.<br>
+      ◦ Integrated LLM APIs and executed comprehensive data preprocessing, data cleaning, and database integration to improve operational efficiency of the chatbot.
+    </td>
+  </tr>
+</table>
+
+<br>
 
 </div>
-
-## How to Complete the Setup
-
-Thank you for reviewing! To get this fully running on your profile, please follow these beginner-friendly instructions:
-
-1. **Review and Merge:** First, look over the changes in this Pull Request. If everything looks good, click the green **"Merge pull request"** button to apply the changes to your main branch.
-2. **Enable GitHub Actions:** Go to the **"Actions"** tab at the top of your repository page. If you see a message asking to enable workflows, click **"I understand my workflows, go ahead and enable them."**
-3. **Run the Workflow manually the first time:**
-   - Under "All workflows" on the left, click on **"Update profile art"**.
-   - On the right side, click the **"Run workflow"** dropdown button, and click the green **"Run workflow"** button.
-   - Wait a minute or two for the workflow to complete (a green checkmark will appear).
-4. **Check the final result:** Once the action finishes, go back to your main repository page or your public GitHub profile (`https://github.com/Cherish01-spec`). You should now see the animated ASCII portrait, your real statistics, and the animated contribution graph!
-
-**Troubleshooting:**
-- If images don't load or look broken, double-check that the action finished successfully. If it failed, click into the action run to see the error message.
-- The workflow is configured to automatically run every day at ~06:17 UTC to update your contribution graph.
-
