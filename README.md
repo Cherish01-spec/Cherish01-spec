@@ -75,7 +75,7 @@
 
 <h3><code>Cherish01-spec@github ~ $ ./links.sh</code></h3>
 
-<p><b>Student · Vibe Coder</b></p>
+<p><b> AI/ML Developer</b></p>
 
 [![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-cherishkumarsatpathy.me-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://www.cherishkumarsatpathy.me/)
 [![GitHub](https://img.shields.io/badge/GitHub-Cherish01--spec-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cherish01-spec)
